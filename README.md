@@ -1,11 +1,3 @@
-Packages Required(latest versions unless specified otherwise):
-Anaconda
-Pytorch
-Elasticsearch and elasticsearch-py (Elastic Search 6.0)
-Scipy
-Numpy
-Flask
-
 File description:
 
 *Note: A subset of 587 images from our database of ~16000 car images has been included in this folder for demo purposes.(because compressing and including all would amount to as much as 2GB)
@@ -25,8 +17,15 @@ app.py is the python flask server used to search the queries.
 
 Instructions to run:
 
-Install the required packages.
+1. Install the required packages -
+    Packages Required(latest versions unless specified otherwise):
+    Anaconda
+    Pytorch
+    Elasticsearch and elasticsearch-py (Elastic Search 6.0)
+    Scipy
+    Numpy
+    Flask
 
-Run app.py
+2. Run app.py
 
-Submit any .jpg image of a car via the GUI in app.py, for an expected output of the 4 most similiar(relevant) images in the dataset.
+3. Submit any .jpg image of a car via the GUI in app.py, for an expected output of the 4 most similiar(relevant) images in the dataset.
