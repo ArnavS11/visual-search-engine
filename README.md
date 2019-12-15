@@ -31,8 +31,7 @@ Within Elasticsearch"](https://arxiv.org/abs/1806.08896).
 
 1. Clone the repository on your machine.
 
-2. Install the required dependencies -
-    - Packages Required(latest versions unless specified otherwise):
+2. Install the required dependencies (latest versions unless specified otherwise):
     - Anaconda
     - Pytorch
     - Elasticsearch and elasticsearch-py (Elastic Search 6.0)
