@@ -1,4 +1,4 @@
-# Visual search engine built over Elasticsearch
+# Visual Search Engine over Elasticsearch
 
 This repository contains the code for an end-to-end content based image retrieval system based on Elasticsearch.
 
