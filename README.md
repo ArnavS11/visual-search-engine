@@ -7,7 +7,7 @@ The project was completed in partial fulfilment of the BITS Pilani curriculum co
 It provides an end-to-end implementation of the research paper ["Towards Practical Visual Search Engine
 Within Elasticsearch"](https://arxiv.org/abs/1806.08896).
 
-Note on implementation details: Instead of going for subvector-wise clustering, element-wise rounding has been used for encoding the string tokens.
+*Note on implementation details: Instead of going for subvector-wise clustering, element-wise rounding has been used for encoding the string tokens.*
 
 
 
